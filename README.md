@@ -15,3 +15,5 @@
 ### To see analysis go through topicmodelling.ipynb
 
 ### To see sentiment analysis go through sentimentanalysis.ipynb
+
+### To see Analysis of the review predicted go through JET2 Analysing.ipynb
